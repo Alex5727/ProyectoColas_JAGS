@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|c:\\users\\omar campos\\documents\\trabajos4tocuatrimestre\\estructura de datos\\proyectocola\\proyectocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|c:\\users\\pc\\downloads\\proyecto colas\\proyectocolas\\proyectocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|solutionrelative:proyectocola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\proyectocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|solutionrelative:proyectocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\proyectocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|solutionrelative:proyectocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\proyectocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|solutionrelative:proyectocola\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\proyectocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0920F768-4099-465A-AA50-0332A40A7AAF}|ProyectoCola\\ProyectoCola.csproj|solutionrelative:proyectocola\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cola.cs",
-              "DocumentMoniker": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Cola.cs",
-              "RelativeDocumentMoniker": "ProyectoCola\\Cola.cs",
-              "ToolTip": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Cola.cs",
-              "RelativeToolTip": "ProyectoCola\\Cola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T20:00:11.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Nodo.cs",
-              "DocumentMoniker": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Nodo.cs",
               "RelativeDocumentMoniker": "ProyectoCola\\Nodo.cs",
-              "ToolTip": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Nodo.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Nodo.cs",
               "RelativeToolTip": "ProyectoCola\\Nodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,13 +39,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Cola.cs",
+              "RelativeDocumentMoniker": "ProyectoCola\\Cola.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Cola.cs",
+              "RelativeToolTip": "ProyectoCola\\Cola.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowDQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:00:11.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoCola\\Program.cs",
-              "ToolTip": "C:\\Users\\Omar Campos\\Documents\\Trabajos4toCuatrimestre\\Estructura de datos\\ProyectoCola\\ProyectoCola\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\proyecto colas\\ProyectoColas\\ProyectoCola\\Program.cs",
               "RelativeToolTip": "ProyectoCola\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T19:57:56.668Z",
               "EditorCaption": ""

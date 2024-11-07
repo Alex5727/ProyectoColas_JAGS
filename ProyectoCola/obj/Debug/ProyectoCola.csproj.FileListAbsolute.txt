@@ -1,0 +1,7 @@
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\obj\Debug\ProyectoCola.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\obj\Debug\ProyectoCola.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\bin\Debug\ProyectoCola.exe.config
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\bin\Debug\ProyectoCola.exe
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\bin\Debug\ProyectoCola.pdb
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\obj\Debug\ProyectoCola.exe
+C:\Users\pc\Downloads\proyecto colas\ProyectoColas\ProyectoCola\obj\Debug\ProyectoCola.pdb

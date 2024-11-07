@@ -1,4 +1,6 @@
-﻿namespace ProyectoCola
+﻿using System;
+
+namespace ProyectoCola
 {
     internal class Cola
     {
@@ -33,30 +35,81 @@
 
         public void Print()
         {
+            Nodo act = inicio;
+            int c = count;
+            int g = 0;
+            string a = "";
 
+            if (inicio == null)
+            {
+                Console.WriteLine("La pila esta vacia");
+            }
+            else
+            {
+                while(act != null)
+                {
+                    Console.WriteLine(act.Valor);
+
+                    act = act.Sig;
+                }
+                
+            }
         }
+
 
         public int Count()
         {
-
+            return count;
         }
 
-        public bool Insert()
+        public bool Insert(int n)
         {
-            /* regresa true al insertar exitosamente,
-             * regresa false si la esta llena y no se
-             * puso insertar
-             */
+            Nodo nuevo = new Nodo(n);
+            Nodo act = inicio;
 
+           if (overflow())
+            {
+                return false;
+            }
+            else if (inicio == null)
+            {
+                inicio = nuevo;
+                count = 1;
+                return true;
+            }
+            else
+            {
+                while (act.Sig != null)
+                {
+                    act = act.Sig;
+                }
+                act.Sig = nuevo;
+                count = count + 1;
+                return true;
+            }
         }
 
         public int Extract()
         {
-            /* Regresa el valor extraido de la cola 
-             * si la cola esta vacia regresa -1 por que
-             * no puso extraer
-             */
-
+            int a;
+            if(underflow())
+            {
+                return -1;
+            }
+            else if(count == 1)
+            {
+                a = inicio.Valor;
+                inicio = inicio.Sig;
+                count = count - 1;
+                return a;
+            }
+            else
+            {
+                a = inicio.Valor;
+                inicio = inicio.Sig;
+                count = count - 1;
+                return a;
+            }
         }
     }
 }
